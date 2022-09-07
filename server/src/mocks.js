@@ -1,4 +1,4 @@
-module.export = {
+module.exports = {
   Query: () => ({
     tracksForHome: () => [...new Array(9)],
   }),
